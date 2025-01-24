@@ -1,0 +1,36 @@
+
+
+body {
+    font-style: italic;
+    background-color: lightgray;
+}
+
+#logo {
+    padding: 15px 15px 0px;
+}
+
+#cabecera {
+    font-size: 0.55cm;
+}
+
+#post {
+    padding: 20px;
+}
+
+#post h1 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+
+#post ol {
+    padding: 0;
+}
+
+#post ol li {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #f0f6fc;
+    border-left: 5px solid #0366d6;
+    border-radius: 5px;
+}
+
